@@ -1,0 +1,7 @@
+package test2;
+
+public enum Day {
+    MONDAY,TEUSDAY,WEDSNESDAY,THUSDAY,FRIDAY,SATURDAY,SUNDAY
+}
+
+
